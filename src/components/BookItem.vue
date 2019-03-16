@@ -1,6 +1,6 @@
 <template>
   <li>
-    {{ book.title}}
+    {{ book.title }}
   </li>
 </template>
 
